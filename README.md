@@ -1,6 +1,6 @@
 ![logo_hydraxss](https://user-images.githubusercontent.com/117448792/232486213-a579d169-70b9-4cef-bd7e-c808dd4d18ea.png)
 # HydraXSS
-HydraXSS is a brand new XSS scanner. It crawl all the page on the target website to find some user inputs and inject payloads automatically
+HydraXSS is a brand new XSS scanner. It crawl all the pages on the target website to find some user inputs and inject payloads automatically
 
 ## Features
 * **Exploit of Input field**
